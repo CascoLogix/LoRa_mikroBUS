@@ -1,4 +1,4 @@
-update=10/11/2015 4:29:06 PM
+update=1/3/2016 12:59:21 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -78,3 +78,13 @@ LibName46=Test_Point
 LibName47=TI_Luminary
 LibName48=TI_MSP430
 LibName49=Transducer
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=Z:/Engineering/Projects/mikroBUS_Modules/RFM95_mikroBUS/Hardware/EDA/Drawing/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
