@@ -1,0 +1,9 @@
+### Module positions - created on 1/9/2016 11:40:25 AM ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+J1       u.FL             U.FL-R-SMT          0.1850     1.0140       0.0    top
+J2       SMA              SMA_EDGE            0.5000     1.1200     270.0    top
+U1       RFM95W           RFM95W              0.5000     0.5000     180.0    top
+## End

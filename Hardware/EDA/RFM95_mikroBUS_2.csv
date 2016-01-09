@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"RFM95W";1;"RFM95W";;;
+2;"P2,P1";"HEADER_M_2.54MM_1R8P_ST_AU_PTH";2;"HEADER_M_2.54MM_1R8P_ST_AU_PTH";;;
+3;"J1";"U.FL-R-SMT";1;"u.FL";;;
+4;"AE1";"ANTENNA_HELICAL_RA";1;"Antenna_Helical_RA";;;
+5;"J2";"SMA_EDGE";1;"SMA";;;
+6;"LK7,LK2,LK6";"SOLDER_LINK_NC";3;"NC";;;
+7;"LK1,LK3,LK4,LK5";"SOLDER_LINK_NO";4;"NO";;;
+8;"";"mikroBUS_Small";1;"mikroBUS_Small";;;

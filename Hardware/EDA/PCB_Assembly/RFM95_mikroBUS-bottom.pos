@@ -1,0 +1,14 @@
+### Module positions - created on 1/9/2016 11:40:25 AM ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = inches, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+         mikroBUS_Small   mikroBUS_Small      0.5000     0.8500     180.0    bottom
+LK1      NO               SOLDER_LINK_NO      0.3250     0.3500      90.0    bottom
+LK2      NC               SOLDER_LINK_NC      0.3250     0.2750      90.0    bottom
+LK3      NO               SOLDER_LINK_NO      0.3250     0.2000      90.0    bottom
+LK4      NO               SOLDER_LINK_NO      0.3250     0.1250      90.0    bottom
+LK5      NO               SOLDER_LINK_NO      0.6750     0.4250      90.0    bottom
+LK6      NC               SOLDER_LINK_NC      0.6750     0.5000      90.0    bottom
+LK7      NC               SOLDER_LINK_NC      0.3250     0.5750      90.0    bottom
+## End

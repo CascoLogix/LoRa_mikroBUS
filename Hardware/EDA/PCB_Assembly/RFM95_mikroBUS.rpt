@@ -1,0 +1,722 @@
+## Module report - date 1/9/2016 9:42:00 AM
+## Created by Pcbnew version kicad 4.0.1-stable
+## Unit = inches, Angle = deg.
+##
+
+$BeginDESCRIPTION
+
+$BOARD
+unit INCH
+upper_left_corner  3.948003  3.587795
+lower_right_corner  5.381874  5.032993
+$EndBOARD
+
+$MODULE "U1"
+reference "U1"
+value "RFM95W"
+footprint "RF_Modules:RFM95W"
+attribut none
+position  4.870000  4.475000
+orientation  180.00
+layer component
+$SHAPE3D
+Na "C:/Engineering/KiCAD_Libraries/3D/Modules/VRML/RFM95W.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position -0.314961 -0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position -0.314961 -0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "3"
+position -0.314961 -0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "4"
+position -0.314961 -0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "5"
+position -0.314961  0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "6"
+position -0.314961  0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "7"
+position -0.314961  0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "8"
+position -0.314961  0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "9"
+position  0.314961  0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "10"
+position  0.314961  0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "11"
+position  0.314961  0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "12"
+position  0.314961  0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "13"
+position  0.314961 -0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "14"
+position  0.314961 -0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "15"
+position  0.314961 -0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "16"
+position  0.314961 -0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "P2"
+reference "P2"
+value "HEADER_M_2.54MM_1R8P_ST_AU_PTH"
+footprint "Header:HEADER_M_2.54MM_1R8P_ST_AU_PTH"
+attribut none
+position  5.320000  4.475000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_1R8P_ST_AU_PTH.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "6"
+position  0.150000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "4"
+position -0.050000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "3"
+position -0.150000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "2"
+position -0.250000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "1"
+position -0.350000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  both
+$EndPAD
+$PAD "7"
+position  0.250000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "8"
+position  0.350000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "5"
+position  0.050000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$EndMODULE  P2
+
+$MODULE "P1"
+reference "P1"
+value "HEADER_M_2.54MM_1R8P_ST_AU_PTH"
+footprint "Header:HEADER_M_2.54MM_1R8P_ST_AU_PTH"
+attribut none
+position  4.420000  4.475000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_1R8P_ST_AU_PTH.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "6"
+position  0.150000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "4"
+position -0.050000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "3"
+position -0.150000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "2"
+position -0.250000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "1"
+position -0.350000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  both
+$EndPAD
+$PAD "7"
+position  0.250000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "8"
+position  0.350000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "5"
+position  0.050000  0.000000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$EndMODULE  P1
+
+$MODULE "J1"
+reference "J1"
+value "u.FL"
+footprint "Connector:U.FL-R-SMT"
+attribut none
+position  4.555000  3.961000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "C:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/UFL-R-SMD.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.058500
+size  0.039000  0.039000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "4"
+position  0.057000  0.000000
+size  0.039000  0.087000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position -0.057000  0.000000
+size  0.039000  0.087000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "3"
+position  0.000000 -0.058500
+size  0.039000  0.039000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  J1
+
+$MODULE ""
+reference ""
+value "mikroBUS_Small"
+footprint "Logo:mikroBUS_Small"
+attribut none
+position  4.870000  4.125000
+orientation  180.00
+layer copper
+$EndMODULE  
+
+$MODULE "AE1"
+reference "AE1"
+value "Antenna_Helical_RA"
+footprint "Passive:ANTENNA_HELICAL_RA"
+attribut none
+position  4.870000  4.005000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.067000  0.067000
+drill  0.038000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "1"
+position  0.000000 -0.060000
+size  0.067000  0.188000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  AE1
+
+$MODULE "J2"
+reference "J2"
+value "SMA"
+footprint "Connector:SMA_EDGE"
+attribut none
+position  4.870000  3.855000
+orientation  270.00
+layer component
+$SHAPE3D
+Na "C:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/SMA_EDGE.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD ""
+position  0.075000  0.109000
+size  0.150000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD ""
+position  0.075000 -0.109000
+size  0.150000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.075000 -0.109000
+size  0.150000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "3"
+position  0.075000  0.109000
+size  0.150000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "1"
+position  0.075000  0.000000
+size  0.150000  0.050000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "LK7"
+reference "LK7"
+value "NC"
+footprint "Passive:SOLDER_LINK_NC"
+attribut none
+position  4.695000  4.400000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK7
+
+$MODULE "LK2"
+reference "LK2"
+value "NC"
+footprint "Passive:SOLDER_LINK_NC"
+attribut none
+position  4.695000  4.700000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK2
+
+$MODULE "LK6"
+reference "LK6"
+value "NC"
+footprint "Passive:SOLDER_LINK_NC"
+attribut none
+position  5.045000  4.475000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK6
+
+$MODULE "LK1"
+reference "LK1"
+value "NO"
+footprint "Passive:SOLDER_LINK_NO"
+attribut none
+position  4.695000  4.625000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK1
+
+$MODULE "LK3"
+reference "LK3"
+value "NO"
+footprint "Passive:SOLDER_LINK_NO"
+attribut none
+position  4.695000  4.775000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK3
+
+$MODULE "LK4"
+reference "LK4"
+value "NO"
+footprint "Passive:SOLDER_LINK_NO"
+attribut none
+position  4.695000  4.850000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK4
+
+$MODULE "LK5"
+reference "LK5"
+value "NO"
+footprint "Passive:SOLDER_LINK_NO"
+attribut none
+position  5.045000  4.550000
+orientation  90.00
+layer copper
+$PAD "1"
+position  0.000000  0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$PAD "2"
+position  0.000000 -0.030000
+size  0.050000  0.040000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  back
+$EndPAD
+$EndMODULE  LK5
+
+$LINE 
+start 5.270000 4.975000
+end 5.370000 4.875000
+width 0.005906
+$EndLINE 
+$LINE 
+start 5.370000 4.875000
+end 5.370000 3.850000
+width 0.005906
+$EndLINE 
+$LINE 
+start 4.370000 3.850000
+end 4.370000 4.975000
+width 0.005906
+$EndLINE 
+$LINE 
+start 5.370000 3.850000
+end 4.370000 3.850000
+width 0.005906
+$EndLINE 
+$LINE 
+start 4.370000 4.975000
+end 5.270000 4.975000
+width 0.005906
+$EndLINE 
+$EndDESCRIPTION
