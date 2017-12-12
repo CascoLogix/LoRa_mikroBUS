@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.4-stable)
 
   (general
     (links 33)
     (no_connects 0)
-    (area 100.279287 91.13 136.699601 127.838023)
+    (area 100.429287 91.28 136.699601 127.774523)
     (thickness 1.6)
     (drawings 57)
     (tracks 137)
@@ -45,7 +45,7 @@
   )
 
   (setup
-    (last_trace_width 0.25)
+    (last_trace_width 0.3429)
     (user_trace_width 0.3429)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
@@ -200,7 +200,7 @@
       (net 17 DIO1))
     (pad 16 smd rect (at 8 -7 180) (size 2.5 1.2) (layers F.Cu F.Paste F.Mask)
       (net 18 DIO2))
-    (model C:/Engineering/KiCAD_Libraries/3D/Modules/VRML/RFM95W.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/RF_Modules/VRML/RFM9xW.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -329,7 +329,7 @@
       (net 7 GND))
     (pad 3 smd rect (at 0 -1.4859) (size 0.9906 0.9906) (layers F.Cu F.Paste F.Mask)
       (net 7 GND))
-    (model C:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/UFL-R-SMD.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/UFL-R-SMT.wrl_
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -352,6 +352,11 @@
       (net 16 "Net-(AE1-Pad1)"))
     (pad 1 smd rect (at 0 -1.524) (size 1.7018 4.7752) (layers F.Cu F.Mask)
       (net 16 "Net-(AE1-Pad1)"))
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Antenna/VRML/SW868-TH13.wrl_
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Passive:SOLDER_LINK_NC (layer B.Cu) (tedit 568E0524) (tstamp 5688B051)

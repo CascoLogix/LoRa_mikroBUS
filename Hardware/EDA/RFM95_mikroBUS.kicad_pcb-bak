@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.4-stable)
 
   (general
     (links 33)
     (no_connects 0)
-    (area 100.279287 91.13 136.699601 127.838023)
+    (area 110.922999 97.714999 136.473001 126.440001)
     (thickness 1.6)
     (drawings 57)
     (tracks 137)
@@ -40,8 +40,8 @@
     (45 Margin user)
     (46 B.CrtYd user)
     (47 F.CrtYd user)
-    (48 B.Fab user)
-    (49 F.Fab user)
+    (48 B.Fab user hide)
+    (49 F.Fab user hide)
   )
 
   (setup
@@ -74,14 +74,14 @@
     (grid_origin 110.998 126.365)
     (visible_elements 7FFEFFFF)
     (pcbplotparams
-      (layerselection 0x311fc_80000007)
+      (layerselection 0x011fc_80000007)
       (usegerberextensions false)
       (excludeedgelayer false)
       (linewidth 0.100000)
-      (plotframeref true)
+      (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin false)
+      (useauxorigin true)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15)
@@ -93,11 +93,11 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 4)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory Z:/Engineering/Projects/mikroBUS_Modules/RFM95_mikroBUS/Hardware/EDA/PCB_Assembly/))
+      (outputdirectory Z:/Engineering/Projects/mikroBUS_Modules/RFM95_mikroBUS/Hardware/EDA/Gerbers/))
   )
 
   (net 0 "")
@@ -200,7 +200,7 @@
       (net 17 DIO1))
     (pad 16 smd rect (at 8 -7 180) (size 2.5 1.2) (layers F.Cu F.Paste F.Mask)
       (net 18 DIO2))
-    (model C:/Engineering/KiCAD_Libraries/3D/Modules/VRML/RFM95W.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/RF_Modules/VRML/RFM9xW.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1390,10 +1390,10 @@
     (fp_line (start 0.640717 -1.782296) (end 1.288614 -1.782296) (layer B.SilkS) (width 0.1))
   )
 
-  (module Connector:SMA_EDGE (layer F.Cu) (tedit 56A39A66) (tstamp 561324C0)
+  (module Connector:SMA_EDGE (layer F.Cu) (tedit 56A39C47) (tstamp 561324C0)
     (at 123.698 97.79 270)
     (path /561309D6)
-    (fp_text reference J2 (at 5.5 0 270) (layer F.SilkS)
+    (fp_text reference J2 (at 2.159 -5.207 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SMA (at 2.1 4.5 270) (layer F.Fab)
