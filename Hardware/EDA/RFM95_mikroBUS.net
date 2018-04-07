@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source Z:/Engineering/Projects/mikroBUS_Modules/RFM95_mikroBUS/Hardware/EDA/RFM95_mikroBUS.sch)
-    (date "12/17/2016 5:44:15 PM")
+    (date "4/7/2018 2:01:08 PM")
     (tool "Eeschema 4.0.4-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -92,7 +92,13 @@
       (footprint Passive:SOLDER_LINK_NC)
       (libsource (lib Connector) (part SOLDER_LINK_NC))
       (sheetpath (names /) (tstamps /))
-      (tstamp 5688F5E6)))
+      (tstamp 5688F5E6))
+    (comp (ref G1)
+      (value Casco_Logix_Logo)
+      (footprint Logo:Casco_Logix_Logo_6x6MM)
+      (libsource (lib CascoLogixLogo) (part Casco_Logix_Logo))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5AC914E9)))
   (libparts
     (libpart (lib Passive) (part Antenna_Helical_RA)
       (description "Helical, or Spring, Antenna")
@@ -103,6 +109,12 @@
         (field (name Value) Antenna_Helical_RA))
       (pins
         (pin (num 1) (name In) (type input))))
+    (libpart (lib CascoLogixLogo) (part Casco_Logix_Logo)
+      (footprints
+        (fp Casco_Logix_Logo*))
+      (fields
+        (field (name Reference) G)
+        (field (name Value) Casco_Logix_Logo)))
     (libpart (lib Header) (part HEADER_M_2.54MM_1R8P_ST_AU_PTH)
       (footprints
         (fp HEADER_M_2.54MM_1R8P_ST_AU_PTH))
@@ -192,6 +204,8 @@
   (libraries
     (library (logical Connector)
       (uri C:\Engineering\KiCAD_Libraries\Schematic\Connector.lib))
+    (library (logical CascoLogixLogo)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\CascoLogixLogo.lib))
     (library (logical Header)
       (uri C:\Engineering\KiCAD_Libraries\Schematic\Header.lib))
     (library (logical Passive)
