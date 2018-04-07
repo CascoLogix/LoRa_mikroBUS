@@ -1,4 +1,4 @@
-update=1/6/2016 8:15:52 PM
+update=4/7/2018 2:02:20 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -81,7 +81,7 @@ LibName49=Transducer
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=Z:/Engineering/Projects/mikroBUS_Modules/RFM95_mikroBUS/Hardware/EDA/Drawing/
+PlotDirectoryName=Drawing/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
